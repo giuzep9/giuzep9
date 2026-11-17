@@ -22,6 +22,8 @@ Designed and deployed a production SOAP web service for the Ajuntament de Sólle
 
 **Stack:** Java 17, Spring Boot, Spring Web Services, Spring JDBC, Oracle Database, Oracle Linux, HTTPS/TLS.
 
+**[View technical case study →](https://github.com/giuzep9/apiwebcv-case-study)**
+
 ### InventiJ — Municipal Inventory Management Application
 
 Designed and developed a Java desktop application for managing municipal assets, accounting information, inventory snapshots, and reporting workflows.
